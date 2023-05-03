@@ -7,9 +7,9 @@ First we install all the necessary software:
 - PuTTY
 - Virtual Box
 
-Next we create a vagrantfile
+Next we create a `Vagrantfile`
 
-Contents of `vagrantfile`:
+Contents of `Vagrantfile`:
 ```
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
